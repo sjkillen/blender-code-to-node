@@ -1,3 +1,9 @@
+/grammar/NodeCodeVisitor.py
+/antlr-4.10.1-complete.jar
+/.antlr4
+/.vscode
+/code2node.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
